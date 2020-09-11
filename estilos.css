@@ -1,0 +1,21 @@
+
+
+.itensMenuSuperior:hover{
+
+    background-color: rgb(98, 43, 207);
+    border-radius: 10px;
+
+
+}
+
+.texto-roxo{
+    color: rgb(62, 28, 129);
+}
+
+.texto-rosa{
+    color: rgb(167, 23, 114);
+}
+
+.texto-laranja{
+    color: rgb(221, 119, 16);
+}
